@@ -1,4 +1,4 @@
-
+# 💫 About Me:
 Hi, I’m Vanshika Chadha, an MBA student specializing in Digital & Strategic Marketing. I have a strong interest in SEO, analytics, and data-driven marketing strategies. I enjoy improving website performance, conducting keyword research, and performing SEO audits to enhance search visibility.
 
 ---
