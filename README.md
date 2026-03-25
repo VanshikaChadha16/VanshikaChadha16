@@ -25,6 +25,15 @@ Hi, I’m Vanshika Chadha, an MBA student specializing in Digital & Strategic Ma
 - Keyword Research & Competitor Analysis
 - Website Audit & Optimization
 - Data Visualization & Reporting
+- SERP Analysis  
+- Content Strategy
+
+### 📈 Marketing & Business
+- Digital Marketing Strategy  
+- Market Research  
+- Data Analysis  
+- Problem Solving  
+- Team Collaboration  
 
 ---
 
