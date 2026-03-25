@@ -12,6 +12,9 @@ Hi, I’m Vanshika Chadha, an MBA student specializing in Digital & Strategic Ma
 # 💻 Tech Stack:
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search%20Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google Keyword Planner](https://img.shields.io/badge/Keyword%20Planner-34A853?style=for-the-badge&logo=google&logoColor=white)
+![SEMrush](https://img.shields.io/badge/SEMrush-FF642D?style=for-the-badge&logo=semrush&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
